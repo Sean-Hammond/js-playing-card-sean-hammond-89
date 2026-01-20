@@ -2,7 +2,7 @@
 Project by Sean Hammond
 
 ## DOM? Who's DOM???
-"DOM" refers to the DOM manipulation used in this project. Would it have been easier with using OnClick? Yes, but the project was meant to teach about event listeners and DOM.
+"DOM" refers to the DOM manipulation used in this project. Would it have been easier with using OnClick? Yes, but the project was meant to get familiar with event listeners and DOM (you never know, you might use it some day...).
 
 ## What does this website do?
 When you click on the playing card or button, it generates a new random card from the animated "deck."
